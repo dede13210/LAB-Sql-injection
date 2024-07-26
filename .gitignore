@@ -1,0 +1,2 @@
+# Exclude the target directory and its contents
+/app/lab_sql_injection/target/

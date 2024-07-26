@@ -2,7 +2,7 @@
 FROM mysql:8.0
 
 # Set environment variables for MySQL
-ENV MYSQL_DATABASE=mydatabase
+ENV MYSQL_DATABASE=clientdb
 ENV MYSQL_USER=myuser
 ENV MYSQL_PASSWORD=mypassword
 ENV MYSQL_ROOT_PASSWORD=rootpassword
