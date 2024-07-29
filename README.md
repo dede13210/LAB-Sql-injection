@@ -6,8 +6,5 @@ Start docker
 docker compose up
 ```
 
-
-Vous pouvez récupérer les différends utilisateur en fournissant l'id.
-http://127.0.0.1:8080/user/1
-
-Le but de ce lab et de parvenir à récupéré tout les utilisateurs grâce à une seul requète get.
+The purpose of this lab is to get all users in only one request. (Via simple sql injection)
+You can access the api at  http://127.0.0.1:8080/user/1
